@@ -2,6 +2,10 @@
 
 ## 0.2.x
 
+### 0.2.23.1
+
+- postgis support to schema_dumper
+
 ### 0.2.23.0
 
 - using github packages and actions
