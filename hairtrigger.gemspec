@@ -23,4 +23,6 @@ Gem::Specification.new do |s|
   s.add_dependency 'activerecord', '>= 5.0', '< 7'
   s.add_dependency 'ruby_parser', '~> 3.10'
   s.add_dependency 'ruby2ruby', '~> 2.4'
+
+  s.metadata = { "github_repo" => "ssh://github.com/Luit/hair_trigger" }
 end
